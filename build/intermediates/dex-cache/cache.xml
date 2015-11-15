@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-457e0853ebe09766c947eb6824b234fd8f314caa.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-b171452931a844a8e95286bb796ccc67eaa13bb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-df644205e2785e76cc858e237154fd11469eb90e.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-8d969fbd53dc582d9404ea0f2146a7e2b78e4df0.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-b20aea6c0de850671450d16e46d5160670647477.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-cafee694b928b88457f26a99584c3b26ddb49a76.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-0b115a1a44eddeaf58707b3c7d174b78e2402207.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-772dc6fc38b6c08764095d14508a45f963084afb.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-d0f321ce104d7abd738ea3f8dd1c9ea0917ae01b.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-ab8852255b1aa21c36f4706343b3b2cf98a71f30.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-8b4cdc8974c48206ebbfd61d365ca10a56aadeab.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-c9f2402b8baa9f186d83c83434c3bcf7ec4f14e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-5085ce161fc60ba47c3197f2f71a0da184325725.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-084ebf3bf37947058e883361d84e8c9b58591bf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-c4d2183bce34827c52454bb41cba27916de633bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-bc70ee55cdcb1dcae06184ee960298da52fb54b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-6543edd0093aa7e47b769e7eb5919af8e6685895.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-d0683710086aa9a58922e3ba6178243c894133de.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-1e5f370aeec98e616a2ab749465b0d2c6dfb05f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-16b53b508b81ed01ea5ddf686f69438d63e4dadc.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-e995f63a153b00d3ab7a1fbece0283c9ae3bf594.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-4d9d33c4df350eb2483c8a6a8e42276c64a044e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\classes-08335c0312860006c0ac18193d8e3e4eadbe6890.jar" />
+    </item>
+    <item
+        jar="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\m\AndroidStudioProjects\WaterDistribution\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-2ce381d49203f2464b10a00416d731ec56b70b45.jar" />
+    </item>
+
+</items>
